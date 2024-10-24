@@ -5,3 +5,7 @@ h1{
   background: violet;
   color: orange;
 }
+h2{
+  border:  solid #000;
+  color: rebeccapurple;
+}
